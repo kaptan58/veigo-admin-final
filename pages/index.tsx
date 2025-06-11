@@ -1,9 +1,1 @@
-
-export default function Home() {
-  return (
-    <div>
-      <h1>VEIGO Admin Panel</h1>
-      <p>Proje başarıyla çalışıyor.</p>
-    </div>
-  );
-}
+export default function Home() { return <div className="p-10 font-bold">🎉 VEIGO Admin Panel – Yönetim Ekranı</div>; }
